@@ -1,3 +1,7 @@
+/*
+Program to find the length of the last word in a string where the string is made up of letters and spaces
+*/
+
 #include <iostream>
 using namespace std;
 
